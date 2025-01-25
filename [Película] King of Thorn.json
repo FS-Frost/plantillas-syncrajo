@@ -1,0 +1,46 @@
+{
+  "DatosBasicos": {
+    "Proyecto": "King of Thorn",
+    "UrlImagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc6ZSH9tUFuxsjvHTYRRyVf9pYw6DMXPF4j5AOsy57EhQFyXQC7ZqwtBs0w4Y0hEVqrTWlN_H1tOMXuFqCF56L8kbK9owtxdJ8h3JfM0z3cIiPx_4eoWKtw2UaP1zSRys0Z-BffZVOIWeJQQfr5PAt4XlLbXWt5mySJmNFP_wMQUWxonD_wxISWYwW/s1920/King%20of%20Thorn.jpg",
+    "Sinopsis": "\"Medusa\", un virus letal que afecta el mundo entero. Para escapar de sus estragos, un grupo de elegidos son puestos bajo el sueño helado al interior de cápsulas que los mantendrán seguros hasta que exista una cura. Kasumi, una adolescente, es una de los 160 elegidos para el procedimiento y es enviada al centro de cápsulas del sueño helado (CSCC) al interior de un antiguo castillo. Entendiendo las pocas posibilidades de supervivencia, Kasumi se duerme con esperanzas de reunirse con su hermana gemela Shizuku, quien también fue afectada por el virus. Cuando Kasumi y el resto despiertan, notan que el CSCC ha cambiado impresionantemente. Al igual que en el cuento de la Bella Durmiente, el castillo está cubierto por espinas. ¡El grupo es atacadopor monstruos desconocidos! ¿Cuánto duró su sueño? ¿De dónde provienen los monstruos? ¿Y qué fue del mundo exterior?\n\nAbandonados en medio del enigma, los siete sobrevivientes inician su escape del castillo...",
+    "UrlBlogger": ""
+  },
+  "DatosDescarga": {
+    "Botones": [
+      {
+        "Texto": "Carpeta en MEGA",
+        "Url": "https://mega.nz/folder/PJp2ERBS#6-bf4lubD8LDWCAqsKoGiA",
+        "Color": "#df5228"
+      }
+    ]
+  },
+  "DatosStaff": {
+    "Integrantes": [
+      {
+        "Cargo": "Traducción",
+        "Nombre": "[JC] Kulco"
+      },
+      {
+        "Cargo": "Revisión, carteles, karaoke y compresión",
+        "Nombre": "[FS] Frost"
+      },
+      {
+        "Cargo": "Compresión v1",
+        "Nombre": "[NX] Nytrux y [RS]"
+      }
+    ]
+  },
+  "DatosTecnicos": {
+    "NombreJapones": "いばらの王",
+    "NombreJaponesRomaji": "Ibara no Ou",
+    "NombreAlternativo": "King of Thorn",
+    "NombreAlternativoTraduccion": "Rey de espinas",
+    "Categoria": "Película",
+    "Genero": "Acción, misterio, ciencia ficción, suspenso",
+    "Episodios": "1",
+    "Estudio": "Sunrise",
+    "FormatosArchivos": "[.AVI 704x396 xVID] [.MP4 1280x720 x264] [.MP4 1920x1080 x264]",
+    "TamanoArchivos": "[.AVI 924 MB] [.MP4 720p 1.86 GB] [.MP4 1080p 3.14 GB]",
+    "HtmlGraficoAvance": "-"
+  }
+}
